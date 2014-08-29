@@ -1,0 +1,1073 @@
+TEmployeeDirectory
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory.xcdatamodeld
+cProcessPCH /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory normal x86_64
+cCpResource EmployeeDirectory/john_williams.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg
+cCpResource EmployeeDirectory/kathleen_byrne.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg
+cCpResource EmployeeDirectory/amy_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg
+cCpResource EmployeeDirectory/eugene_lee.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg
+cCpResource EmployeeDirectory/paul_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg
+cCpResource EmployeeDirectory/james_king.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg
+cCpResource EmployeeDirectory/ray_moore.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg
+cCopyStringsFile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj/InfoPlist.strings EmployeeDirectory/en.lproj/InfoPlist.strings
+cCpResource EmployeeDirectory/paula_gates.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg
+cCpResource EmployeeDirectory/steven_wells.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg
+cCpResource EmployeeDirectory/lisa_wong.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg
+cCpResource EmployeeDirectory/julie_taylor.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg
+cCpResource EmployeeDirectory/gary_donovan.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg
+cCompileStoryboard /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Images.xcassets
+cProcessInfoPlistFile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist
+cGenerateDSYMFile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory
+cTouch /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534CFCD90000000000000198
+t1397554393
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005332C30D00000000000003B4
+t1395835661
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005332C319000000000000019E
+t1395835673
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005332C31B000000000058E0E0
+t1395835675
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000005332C31C00000000006CED60
+t1395835676
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005332C31C00000000005B82F0
+t1395835676
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534CFC9F0000000000446820
+t1397554335
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005332C31C00000000003599D0
+t1395835676
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005332C31D00000000002FC3B0
+t1395835677
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005332C31D000000000004B000
+t1395835677
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005332C31E000000000088D8C0
+t1395835678
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005332C3210000000000037680
+t1395835681
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005332C321000000000048F720
+t1395835681
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005332C321000000000013FD70
+t1395835681
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005332C3240000000001F1DE10
+t1395835684
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005332C33300000000002BC360
+t1395835699
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005332C3390000000000002338
+t1395835705
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005332C33A000000000008D370
+t1395835706
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005332C33A0000000000392E20
+t1395835706
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053DA53D000000000000141F0
+t1406817232
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005332C33A0000000000014A80
+t1395835706
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005332C33A0000000000033BA0
+t1395835706
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005332C33A000000000001CFB0
+t1395835706
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005332C33A000000000001B2B0
+t1395835706
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005332C33A00000000000C9570
+t1395835706
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005332C33A0000000000063280
+t1395835706
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005332C33A0000000000008880
+t1395835706
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005332C33A0000000000015080
+t1395835706
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005332C33A00000000000230F0
+t1395835706
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005332C33A000000000000E380
+t1395835706
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005332C33A0000000000089380
+t1395835706
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005332C33A0000000000017320
+t1395835706
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005332C33A0000000000039CD0
+t1395835706
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005332C33A000000000000B0B0
+t1395835706
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005332C33B0000000000167E80
+t1395835707
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005332C33A00000000000106A0
+t1395835706
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005332C33A000000000001CE40
+t1395835706
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005332C33A00000000000740C0
+t1395835706
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005332C33A000000000006CA60
+t1395835706
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005332C33A000000000001BAD0
+t1395835706
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005332C33A0000000000084A20
+t1395835706
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005332C3660000000000000ADC
+t1395835750
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534CFC9F000000000000514C
+t1397554335
+s20812
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.h
+c00000000528C6518000000000000027D
+t1384932632
+s637
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m
+c00000000528C65180000000000002A0A
+t1384932632
+s10762
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Base.lproj/Main.storyboard
+c00000000528C6518000000000000553E
+t1384932632
+s21822
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.h
+c00000000528C651800000000000002EE
+t1384932632
+s750
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m
+c00000000528C65180000000000001B75
+t1384932632
+s7029
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.h
+c00000000528C65180000000000000304
+t1384932632
+s772
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m
+c00000000528C6518000000000000018C
+t1384932632
+s396
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist
+c0000000053FDA7C100000000000005CC
+t1409132481
+s1484
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch
+c00000000528C6518000000000000017A
+t1384932632
+s378
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory.xcdatamodeld
+c00000000528C65180000000000000088
+t1384932632
+s136
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Images.xcassets
+c00000000528C65180000000000000088
+t1384932632
+s136
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.h
+c00000000528C65180000000000000196
+t1384932632
+s406
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m
+c00000000528C651800000000000012C8
+t1384932632
+s4808
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.h
+c00000000528C65180000000000000184
+t1384932632
+s388
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m
+c00000000528C651800000000000009DC
+t1384932632
+s2524
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/amy_jones.jpg
+c00000000528C65180000000000004E3C
+t1384932632
+s20028
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/en.lproj/InfoPlist.strings
+c00000000528C6518000000000000002D
+t1384932632
+s45
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/eugene_lee.jpg
+c00000000528C6518000000000000588E
+t1384932632
+s22670
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/gary_donovan.jpg
+c00000000528C65180000000000004B13
+t1384932632
+s19219
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/james_king.jpg
+c00000000528C65180000000000004692
+t1384932632
+s18066
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/john_williams.jpg
+c00000000528C65180000000000004DE5
+t1384932632
+s19941
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/julie_taylor.jpg
+c00000000528C65180000000000004BC3
+t1384932632
+s19395
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/kathleen_byrne.jpg
+c00000000528C651800000000000048B3
+t1384932632
+s18611
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/lisa_wong.jpg
+c00000000528C651800000000000054B4
+t1384932632
+s21684
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m
+c00000000528C6518000000000000016E
+t1384932632
+s366
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/paul_jones.jpg
+c00000000528C651800000000000049D7
+t1384932632
+s18903
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/paula_gates.jpg
+c00000000528C65180000000000005B43
+t1384932632
+s23363
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ray_moore.jpg
+c00000000528C65180000000000004CAB
+t1384932632
+s19627
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/steven_wells.jpg
+c00000000528C65180000000000005C8C
+t1384932632
+s23692
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app
+t1409132756
+s748
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM
+t1409132756
+s102
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Base.lproj/Main.storyboardc
+t1409132518
+s306
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory
+t1409132508
+s93552
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd
+t1409132505
+s170
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist
+t1409132756
+s1196
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/PkgInfo
+t1409132756
+s8
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg
+t1409131961
+s20028
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj/InfoPlist.strings
+t1409131961
+s42
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg
+t1409131961
+s22670
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg
+t1409131961
+s19219
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg
+t1409131961
+s18066
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg
+t1409131961
+s19941
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg
+t1409131961
+s19395
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg
+t1409131961
+s18611
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg
+t1409131961
+s21684
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg
+t1409131961
+s18903
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg
+t1409131961
+s23363
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg
+t1409131961
+s19627
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg
+t1409131961
+s23692
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o
+t1409132507
+s104868
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o
+t1409132507
+s111052
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o
+t1409132507
+s9832
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/EmployeeDirectory.LinkFileList
+c0000000053FDA5B20000000000000408
+t1409131954
+s1032
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o
+t1409132507
+s88932
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o
+t1409132507
+s62268
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o
+t1409132507
+s3868
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_dependencies.txt
+t1409132756
+s436
+
+N/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_generated_info.plist
+t1409132756
+s525
+
+N/usr/lib/libSystem.B.dylib
+c0000000053DA53CF000000000000E6D0
+t1406817231
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005272C90E0000000000012A00
+t1383254286
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005272C8F6000000000002E320
+t1383254262
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005272C9020000000000021860
+t1383254274
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053DA53D0000000000001B610
+t1406817232
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005272C90D00000000000BD920
+t1383254285
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053DA53D000000000000141F0
+t1406817232
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005272C90E000000000000A120
+t1383254286
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053DA53D0000000000001D550
+t1406817232
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005272C90D0000000000014EE0
+t1383254285
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005272C90F0000000000010380
+t1383254287
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005272C90F000000000000C4C0
+t1383254287
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005272C90E00000000000357A0
+t1383254286
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005272C90E000000000000C070
+t1383254286
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053DA53D00000000000168D00
+t1406817232
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053DA53D00000000000010630
+t1406817232
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053DA53D0000000000001DF10
+t1406817232
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005272C9020000000000075B00
+t1383254274
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053DA53D0000000000007CD60
+t1406817232
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005272C90200000000000766C0
+t1383254274
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053DA53D00000000000044DC0
+t1406817232
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005272C9020000000000021FA0
+t1383254274
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053DA53D0000000000002D920
+t1406817232
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005272C90E000000000001E570
+t1383254286
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053DA53D0000000000000CC70
+t1406817232
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c0000000053DA53D00000000000009A80
+t1406817232
+s39552
+
+N/usr/lib/system/libunc.dylib
+c000000005272C909000000000000C3F0
+t1383254281
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005272C90E00000000000199F0
+t1383254286
+s104944
+
+N/var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.pch
+t1409131959
+s118028
+
+N/var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch
+t1409132507
+s118036
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7383d1960fafb941^7f8831970fafb941^---0#1#1#--18"Check dependencies36"E755B781-943A-449D-9766-A38E063CC783-
+
+CCompileAssetCatalog /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Images.xcassets
+s430825555.657268
+e430825556.220508
+r1
+xCompileAssetCatalog
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/LaunchImage-700-568h@2x.png
+o/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Assets.car
+o/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/EmployeeDirectory.app [1mEmployeeDirectory/Images.xcassets[0m119"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/EmployeeDirectory.app [1mEmployeeDirectory/Images.xcassets[0m8868a853e0adb941^e2723854e0adb941^-464"/* com.apple.actool.compilation-results *//Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/LaunchImage-700-568h@2x.png/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Assets.car/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@98"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Images.xcassets/0000000000000000^1509"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/EmployeeDirectory.app [1mEmployeeDirectory/Images.xcassets[0m    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Images.xcassets36"0C5D07AE-21DF-4D89-8804-74D1101DE80B-
+bEDF2B7C0-8404-4AF1-AE9E-F18C7A77B0F1
+
+CCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825307.538883
+e430825307.776879
+r1
+xCompileC
+xbuild/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m238"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o [1mEmployeeDirectory/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler25208a5bdfadb941^25e9c65bdfadb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m0000000000000000^4236"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o [1mEmployeeDirectory/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -include /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch -MMD -MT dependencies -MF /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.m -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o36"425176E5-0E92-4ECC-9F8E-444F0211C3C3-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825307.538229
+e430825307.779275
+r1
+xCompileC
+xbuild/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m256"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o [1mEmployeeDirectory/DetailViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler54e3895bdfadb941^e57ec75bdfadb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m0000000000000000^4290"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o [1mEmployeeDirectory/DetailViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -include /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch -MMD -MT dependencies -MF /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.d --serialize-diagnostics /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.dia -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.m -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o36"B83FFE0A-DF7F-4901-A94E-1CBCDAEAA743-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825307.771079
+e430825307.812234
+r1
+xCompileC
+xbuild/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m232"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o [1mEmployeeDirectory/Employee.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2499c55bdfadb941^28f3cf5bdfadb941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m0000000000000000^4218"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o [1mEmployeeDirectory/Employee.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -include /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch -MMD -MT dependencies -MF /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.d --serialize-diagnostics /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.dia -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.m -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o36"8F3B4C38-FBCD-4EB8-80ED-B4AEFA8DF48C-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825307.538522
+e430825307.775515
+r1
+xCompileC
+xbuild/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m256"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o [1mEmployeeDirectory/MasterViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere6038a5bdfadb941^d0d1c65bdfadb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m0000000000000000^4290"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o [1mEmployeeDirectory/MasterViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -include /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch -MMD -MT dependencies -MF /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.d --serialize-diagnostics /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.dia -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/MasterViewController.m -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o36"7FC03FFE-0220-40D1-9338-FF997F3B91E3-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825307.539709
+e430825307.770595
+r1
+xCompileC
+xbuild/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Employee.h
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m258"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o [1mEmployeeDirectory/ReportsViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c6c8a5bdfadb941^f06ac55bdfadb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m0000000000000000^4296"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o [1mEmployeeDirectory/ReportsViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -include /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch -MMD -MT dependencies -MF /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.d --serialize-diagnostics /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.dia -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ReportsViewController.m -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o36"00BA1D63-2350-45A6-ACB3-F66BA3425DF3-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCompileC build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825307.776318
+e430825307.812229
+r1
+xCompileC
+xbuild/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m224"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o [1mEmployeeDirectory/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdae6c65bdfadb941^a2eecf5bdfadb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m0000000000000000^4194"[1mCompileC[0m build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o [1mEmployeeDirectory/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -include /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch -MMD -MT dependencies -MF /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.dia -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/main.m -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o36"F424D101-1821-48F2-83EC-01391C72DED6-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCompileStoryboard /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Base.lproj/Main.storyboard
+s430825308.060222
+e430825318.697341
+r1
+xCompileStoryboard
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"[1mCompileStoryboard[0m [1mEmployeeDirectory/Base.lproj/Main.storyboard[0m78"[1mCompileStoryboard[0m [1mEmployeeDirectory/Base.lproj/Main.storyboard[0m94850f5cdfadb941^ad88b266dfadb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Base.lproj/Main.storyboard0000000000000000^1161"[1mCompileStoryboard[0m [1mEmployeeDirectory/Base.lproj/Main.storyboard[0m    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Base.lproj/Main.storyboardc /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/Base.lproj/Main.storyboard36"97B5C448-E478-434E-8B61-E55A0960E98F-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CCopyStringsFile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj/InfoPlist.strings EmployeeDirectory/en.lproj/InfoPlist.strings
+s430824761.280706
+e430824761.284063
+r1
+xCopyStringsFile
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj/InfoPlist.strings
+xEmployeeDirectory/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy EmployeeDirectory/en.lproj/InfoPlist.strings145"[1mCopyStringsFile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj/InfoPlist.strings EmployeeDirectory/en.lproj/InfoPlist.strings37ff4739ddadb941^6ccf4839ddadb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/en.lproj/InfoPlist.strings0000000000000000^890"[1mCopyStringsFile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj/InfoPlist.strings EmployeeDirectory/en.lproj/InfoPlist.strings    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/en.lproj -- EmployeeDirectory/en.lproj/InfoPlist.strings36"FB31600C-919A-408F-B165-1BC72B32CB50-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/amy_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg
+s430824761.258321
+e430824761.279111
+r1
+xCpResource
+xEmployeeDirectory/amy_jones.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg114"[1mCpResource[0m EmployeeDirectory/amy_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg9a434239ddadb941^64ca4739ddadb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg00347899dfffdf42^913"[1mCpResource[0m EmployeeDirectory/amy_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/amy_jones.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/amy_jones.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"99FBD2E7-D290-4049-8BCC-EA740B5E0FE3-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/eugene_lee.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg
+s430824761.259040
+e430824761.278940
+r1
+xCpResource
+xEmployeeDirectory/eugene_lee.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg116"[1mCpResource[0m EmployeeDirectory/eugene_lee.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg406b4239ddadb941^56b64739ddadb941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg00347899dfffdf42^916"[1mCpResource[0m EmployeeDirectory/eugene_lee.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/eugene_lee.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/eugene_lee.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"0F6028A6-2580-40AB-96F4-7A4475ECA546-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/gary_donovan.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg
+s430824761.284486
+e430824761.286117
+r1
+xCpResource
+xEmployeeDirectory/gary_donovan.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg120"[1mCpResource[0m EmployeeDirectory/gary_donovan.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg6dfd4839ddadb941^03404939ddadb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg00347899dfffdf42^922"[1mCpResource[0m EmployeeDirectory/gary_donovan.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/gary_donovan.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/gary_donovan.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"B2AB8A0A-4418-4C11-A0D6-8B74DD349B83-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/james_king.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg
+s430824761.279432
+e430824761.281861
+r1
+xCpResource
+xEmployeeDirectory/james_king.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg116"[1mCpResource[0m EmployeeDirectory/james_king.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg9eb14739ddadb941^c3284839ddadb941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg00347899dfffdf42^916"[1mCpResource[0m EmployeeDirectory/james_king.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/james_king.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/james_king.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"FFE5CAF7-511D-4EE3-9ED8-2868C821033A-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/john_williams.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg
+s430824761.257939
+e430824761.278665
+r1
+xCpResource
+xEmployeeDirectory/john_williams.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg122"[1mCpResource[0m EmployeeDirectory/john_williams.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg191f4239ddadb941^c9564739ddadb941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg00347899dfffdf42^925"[1mCpResource[0m EmployeeDirectory/john_williams.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/john_williams.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/john_williams.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"76ABFA9A-42CD-4A6E-AF8F-65CCBD1B38E1-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/julie_taylor.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg
+s430824761.284514
+e430824761.286525
+r1
+xCpResource
+xEmployeeDirectory/julie_taylor.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg120"[1mCpResource[0m EmployeeDirectory/julie_taylor.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpgb3084939ddadb941^315c4939ddadb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg00347899dfffdf42^922"[1mCpResource[0m EmployeeDirectory/julie_taylor.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/julie_taylor.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/julie_taylor.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"194915A9-1ADF-422C-A271-47104C592888-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/kathleen_byrne.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg
+s430824761.258073
+e430824761.278668
+r1
+xCpResource
+xEmployeeDirectory/kathleen_byrne.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg124"[1mCpResource[0m EmployeeDirectory/kathleen_byrne.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg22344239ddadb941^46974739ddadb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg00347899dfffdf42^928"[1mCpResource[0m EmployeeDirectory/kathleen_byrne.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/kathleen_byrne.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/kathleen_byrne.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"74E37D44-24E2-4ED6-99D3-093667A4D2E8-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/lisa_wong.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg
+s430824761.282688
+e430824761.284841
+r1
+xCpResource
+xEmployeeDirectory/lisa_wong.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg114"[1mCpResource[0m EmployeeDirectory/lisa_wong.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg30804839ddadb941^75e44839ddadb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg00347899dfffdf42^913"[1mCpResource[0m EmployeeDirectory/lisa_wong.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/lisa_wong.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/lisa_wong.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"AA130D68-FF67-4DEC-8432-4684457DC774-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/paul_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg
+s430824761.279035
+e430824761.281365
+r1
+xCpResource
+xEmployeeDirectory/paul_jones.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg116"[1mCpResource[0m EmployeeDirectory/paul_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpge5994739ddadb941^20084839ddadb941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg00347899dfffdf42^916"[1mCpResource[0m EmployeeDirectory/paul_jones.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paul_jones.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/paul_jones.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"E8F4D99D-7A80-48A7-86A1-38DA8D0F904E-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/paula_gates.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg
+s430824761.281516
+e430824761.283774
+r1
+xCpResource
+xEmployeeDirectory/paula_gates.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg118"[1mCpResource[0m EmployeeDirectory/paula_gates.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg34494839ddadb941^1aa84839ddadb941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg00347899dfffdf42^919"[1mCpResource[0m EmployeeDirectory/paula_gates.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/paula_gates.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/paula_gates.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"B73CA3FA-AC78-4D62-B52D-F5705C57FB18-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/ray_moore.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg
+s430824761.279850
+e430824761.282015
+r1
+xCpResource
+xEmployeeDirectory/ray_moore.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg114"[1mCpResource[0m EmployeeDirectory/ray_moore.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg21ce4739ddadb941^04544839ddadb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg00347899dfffdf42^913"[1mCpResource[0m EmployeeDirectory/ray_moore.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/ray_moore.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/ray_moore.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"5CAA9858-AF3B-426B-9F9A-BA21821CFD82-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CCpResource EmployeeDirectory/steven_wells.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg
+s430824761.282424
+e430824761.283980
+r1
+xCpResource
+xEmployeeDirectory/steven_wells.jpg
+xbuild/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg120"[1mCpResource[0m EmployeeDirectory/steven_wells.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg26734839ddadb941^71ca4839ddadb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg00347899dfffdf42^922"[1mCpResource[0m EmployeeDirectory/steven_wells.jpg build/Debug-iphonesimulator/EmployeeDirectory.app/steven_wells.jpg    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/steven_wells.jpg /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"56A73ED1-6B4C-46FB-A8FB-C88265B57792-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CDataModelVersionCompile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory.xcdatamodeld
+s430825302.464596
+e430825305.030687
+r1
+xDataModelVersionCompile
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd [1mEmployeeDirectory/EmployeeDirectory.xcdatamodeld[0m161"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd [1mEmployeeDirectory/EmployeeDirectory.xcdatamodeld[0mb5197756dfadb941^6ff60759dfadb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory.xcdatamodeld/0000000000000000^1244"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd [1mEmployeeDirectory/EmployeeDirectory.xcdatamodeld[0m    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -XD_MOMC_IOS_TARGET_VERSION=7.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory.xcdatamodeld /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory.momd36"99839F66-2B19-42AB-9246-1C01BFE4A284-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CGenerateDSYMFile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory
+s430825556.223235
+e430825556.361162
+r1
+xGenerateDSYMFile
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Generate /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM155"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/EmployeeDirectory.app.dSYM[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectorya8353954e0adb941^e2765c54e0adb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM/0000000000000000^986"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/EmployeeDirectory.app.dSYM[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app.dSYM36"5D03670A-B406-4396-99C3-B832266263F2-
+bEDF2B7C0-8404-4AF1-AE9E-F18C7A77B0F1
+
+CLd /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory normal x86_64
+s430825307.822195
+e430825308.057398
+r1
+xLd
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory
+xnormal
+xx86_64
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/EmployeeDirectory.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/DetailViewController.o
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/MasterViewController.o
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/ReportsViewController.o
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/Employee.o
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory92"[1mLd[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory normal x86_64088fd25bdfadb941^f7b10e5cdfadb941^---0#0#1#--1800"[1mLd[0m build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory normal x86_64    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator -filelist /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/EmployeeDirectory.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/Objects-normal/x86_64/EmployeeDirectory_dependency_info.dat -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/EmployeeDirectory36"CC4A112C-AEE0-4713-9161-76303CD9AA2B-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CProcessInfoPlistFile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist
+s430825556.221064
+e430825556.222783
+r1
+xProcessInfoPlistFile
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Process /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist144"[1mProcessInfoPlistFile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist [1mEmployeeDirectory/EmployeeDirectory-Info.plist[0m82ab3854e0adb941^92083954e0adb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist0000000000000000^1268"[1mProcessInfoPlistFile[0m build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist [1mEmployeeDirectory/EmployeeDirectory-Info.plist[0m    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    builtin-infoPlistUtility /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Info.plist -genpkginfo /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/assetcatalog_generated_info.plist -o /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app/Info.plist36"DE1E3E7E-BD67-4368-9AD9-7A4BAE65919C-
+bEDF2B7C0-8404-4AF1-AE9E-F18C7A77B0F1
+
+CProcessPCH /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430824754.387170
+e430824759.844256
+r1
+xProcessPCH
+x/var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.pch
+xEmployeeDirectory/EmployeeDirectory-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile EmployeeDirectory/EmployeeDirectory-Prefix.pch340"[1mProcessPCH[0m /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler454a6332ddadb941^0821d837ddadb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch0000000000000000^4254"[1mProcessPCH[0m /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.d -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch -o /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-adcvuezrovfgjjdyjtdxwrklcmss/EmployeeDirectory-Prefix.pch.pch36"ED50A6E3-18DB-44FE-B62B-678E274FCA85-
+b914975BB-F9F9-4EDF-BE45-8D0B9C87F66C
+
+CProcessPCH /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430825302.529852
+e430825307.537487
+r1
+xProcessPCH
+x/var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch
+xEmployeeDirectory/EmployeeDirectory-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile EmployeeDirectory/EmployeeDirectory-Prefix.pch340"[1mProcessPCH[0m /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler69e48756dfadb941^e198895bdfadb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch0000000000000000^4254"[1mProcessPCH[0m /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch EmployeeDirectory/EmployeeDirectory-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-generated-files.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-own-target-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-all-target-headers.hmap -iquote /Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/EmployeeDirectory-project-headers.hmap -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources/x86_64 -I/Users/mobilecoe/Downloads/employee-directory-ios-master/build/EmployeeDirectory.build/Debug-iphonesimulator/EmployeeDirectory.build/DerivedSources -F/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.d -c /Users/mobilecoe/Downloads/employee-directory-ios-master/EmployeeDirectory/EmployeeDirectory-Prefix.pch -o /var/folders/bl/2wtq6brs53g65mr4zrl3x4d40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/EmployeeDirectory-Prefix-cjpegiwohgrdrpdnctakgwycfswk/EmployeeDirectory-Prefix.pch.pch36"D9A742C4-C8DD-4240-819B-531A14ED958F-
+b10B00A4E-5298-46E4-BAC2-0085F6D09AA1
+
+CTouch /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app
+s430825556.362080
+e430825556.366746
+r1
+xTouch
+x/Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app63"[1mTouch[0m build/Debug-iphonesimulator/EmployeeDirectory.app11c55c54e0adb941^43e35d54e0adb941^---0#0#1#--683"[1mTouch[0m build/Debug-iphonesimulator/EmployeeDirectory.app    cd /Users/mobilecoe/Downloads/employee-directory-ios-master    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/platform-tools:/Users/mobilecoe/Downloads/Firefox 29.0.dmg:/Users/mobilecoe/Documents/adt-bundle-mac-x86_64-20140321/sdk/tools:/usr/local/bin:Users/mobilecoe/Downloads/"    /usr/bin/touch -c /Users/mobilecoe/Downloads/employee-directory-ios-master/build/Debug-iphonesimulator/EmployeeDirectory.app36"CCB86ED2-FA44-4353-B9B5-B4E0E58F4A31-
+bEDF2B7C0-8404-4AF1-AE9E-F18C7A77B0F1
+
